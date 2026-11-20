@@ -8,7 +8,7 @@ Stand: 20. November 2026
 
 ## Verantwortlicher
 
-Maik Pfellsticker (Maikode)
+Maik Pfeilsticker (Maikode)  
 E-Mail: maikode.support@icloud.com
 
 ## Kurz gesagt
@@ -47,7 +47,7 @@ Wenn sich die App so ändert, dass Daten anders verarbeitet werden, passen wir d
 
 Last updated: November 20, 2026
 
-**Controller:** Maik Pfellsticker (Maikode), Germany – email: maikode.support@icloud.com
+**Controller:** Maik Pfeilsticker (Maikode), Germany – email: maikode.support@icloud.com
 
 **In short:** All4Guitars does not collect any personal data. There is no account, no advertising, no analytics or tracking tools and no servers of our own. The app does not send any data to the developer.
 
